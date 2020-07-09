@@ -1,29 +1,24 @@
-# 公主連結轉蛋
-公主連結Re:dive轉蛋模擬器
+# redive-gacha
+Princess Connect Re:dive Gacha Simulator
 
-Other Languages:
-* [English](README.en-US.md)
 
-****
-
-### 使用環境
+### Requirements
 
 1. Node.js
 
-### 如何使用？
+### How to use it?
 
-1. 打開CLI
+1. open your command
 2. `git clone https://github.com/hanshino/redive-gacha.git`
 3. `cd redive-gacha`
-4. `npm install` 或 `yarn install`
+4. `npm install` or `yarn install`
 5. `node index.js`
 
-### 擴充
+### Extension
 
-* 可編輯 `gachaPool.json` 進行轉蛋池的資料擴充
+* Edit the `gachaPool.json`
 
-### 執行結果
-
+### Execute
 ```
 λ node index.js
 ┌─────────┬────────┬───────────────────────────────────────────────────────────────────┬──────┬──────────┬────────────┐
